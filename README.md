@@ -1,16 +1,40 @@
 # contact_app
 
-A new Flutter project.
+Contact App 
+Flutter application for managing contacts.
 
-## Getting Started
+Description
+A simple contact management app built with Flutter.
+The app allows the user to:
 
-This project is a starting point for a Flutter application.
+Add a new contact with name, email, phone, and image
 
-A few resources to get you started if this is your first Flutter project:
+Display contacts in a grid view
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete contacts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Navigate between screens using named routes
+
+ Features
+Form validation (name – email – phone)
+
+Image picker for user profile
+
+Global user list
+
+Add & delete contacts
+
+Responsive UI
+
+Clean project structure
+
+ Technologies Used
+Flutter
+
+Dart
+
+Material UI
+
+Image Picker
+
+Git & GitHub
